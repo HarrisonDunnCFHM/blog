@@ -40,4 +40,6 @@ Overall, I gave The Witcher: Enhanced Edition Director's Cut a 3.5/5.
 
 If you've made it this far: thank you. Thank you for indulging me. Here's hoping this isn't just a New Year's Resolution. I want to do this more. My next game will probably be Witcher 2, Pokemon Legends Arceus, or some random impulse buy. I also need to finish The Ruined King. 
 
-![signature]({{site.baseurl}}/assets/signature01.png "Cheers!")
+<img src="{{site.baseurl}}/assets/signature01.png" alt="signature" >
+
+![signature]({{site.baseurl}}/assets/signature01.png "signature")

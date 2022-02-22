@@ -6,4 +6,4 @@ categories:
 ---
 type type type and more typing and again do a thing wow
 
-![here's a joke]({{site.url}}/assets/grumpy_cat_rook.gif)
+![here's a joke]({{site.baseurl}}/assets/grumpy_cat_rook.gif)

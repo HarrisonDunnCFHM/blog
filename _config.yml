@@ -29,7 +29,7 @@ github_username:  HarrisonDunnCFHM
 domain: "harrisondunncfhm.github.io"
 
 # Build settings
-theme: jekyll-theme-merlot
+theme: jekyll-theme-slate
 plugins:
 #  - jekyll-feed
 

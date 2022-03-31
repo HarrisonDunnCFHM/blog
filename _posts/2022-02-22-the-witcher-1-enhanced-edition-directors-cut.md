@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Witcher: Enhanced Edition Director's Cut (PC)"
+title:  "The Witcher: Enhanced Edition Director's Cut"
 date:   2022-02-22 06:05:00 -0600
 categories: pc witcher video-games games
 ---

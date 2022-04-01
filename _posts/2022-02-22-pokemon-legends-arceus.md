@@ -15,7 +15,7 @@ So I find it fitting that the first Pokemon game in nearly 15 years that I reall
 ## Pokemon Legends: Arceus (Switch)
 # Creatures From Hisuian Myth
 
-<img src="{{site.baseurl}}/assets/2022-02-22-legends-arceus-header.png" >
+<img src="{{site.baseurl}}/assets/images/2022-02-22-legends-arceus-header.png" >
 
 *There will be mild spoilers!*
 
@@ -33,7 +33,7 @@ However, this also highlights one of my few real issues with the game: *battling
 
 And the battle system, despite adding a new "attack speed/power" choice for the player to make, still feels too old. Why are we limited to four moves? Why am I only allowed to field one Pokemon, but my opponents (including other trainers!) can field as many as four!
 
- <img src="{{site.baseurl}}/assets/2022-02-22-legends-arceus-team-battle.png" alt="RIP Kadabra" >   
+ <img src="{{site.baseurl}}/assets/images/2022-02-22-legends-arceus-team-battle.png" alt="RIP Kadabra" >   
  > *R.I.P. Kadabra*
 
 And while the game gives you plenty of ways to interface with the previously tedious EVs and nature mechanics, why are these even still in the game? Surely the "hardcore" audience has been thoroughly alienated by Nintendo and Game Freak's continued lack of support. I'm not and have never been a competitive Pokemon player, so take this opinion with a grain of salt. All of these mechanics feel like they're ripe for trimming, but we won't see them ever truly removed because *it's Pokemon*.
@@ -52,4 +52,4 @@ I give Pokemon: Legends Arceus:
 
 Pretty fun despite what feels like many intentional flaws.
 
-<img src="{{site.baseurl}}/assets/signature01.png" alt="signature" >
+<img src="{{site.baseurl}}/assets/images/signature01.png" alt="signature" >
